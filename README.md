@@ -4,7 +4,9 @@ A premium, highly professional landing page designed for an exclusive boutique a
 
 ## Preview
 
-![Landing Page Preview](localhost_8125_.png)
+[![Landing Page Preview](localhost_8125_.png)](https://nikhilroy2.github.io/vip_landing_page/)
+
+👉 **[View Live Preview Here](https://nikhilroy2.github.io/vip_landing_page/)**
 
 ## Features
 
